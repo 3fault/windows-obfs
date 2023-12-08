@@ -1,3 +1,4 @@
+use crate::digest::Digest;
 use crate::windows_fn::WindowsFn;
 
 pub struct Resolver;
